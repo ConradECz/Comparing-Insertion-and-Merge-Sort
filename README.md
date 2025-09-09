@@ -1,6 +1,6 @@
 Implementing both of the sorting algorithms **Insertion Sort** and **Merge Sort** with:
 
--Varying array sizes of 100, 1000, 10000, 100000
+-Varying array sizes of 100, 1000, 10000, and 100000
 
 -Comparing their performances
 
