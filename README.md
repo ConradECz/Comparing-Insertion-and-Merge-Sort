@@ -4,4 +4,4 @@ Implementing both of the sorting algorithms **Insertion Sort** and **Merge Sort*
 
 -Comparing their performances
 
--Analyzing their time complexities in practice.
+-Analyzing their time complexities in practice
